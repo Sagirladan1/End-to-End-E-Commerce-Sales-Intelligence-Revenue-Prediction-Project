@@ -1,0 +1,200 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,Country,City,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Shipping_Cost,Payment_Method,Sales_Rep,Delivery_Status,Customer_Rating,Clean_Revenue
+ORD1001,28-Mar-25,CUST501,Esther Ali,Male,55,Germany,Toronto,Electronics,Laptop,2,335,94,11,PayPal,Amina,Delivered,1,$587.00
+ORD1002,25-Mar-25,CUST502,Esther Ali,Female,32,Canada,Hamburg,Fashion,Jeans,1,1199,25,50,PayPal,Musa,Pending,1,"$1,224.00"
+ORD1003,14-Jan-25,CUST503,John Musa,Female,24,Germany,Ottawa,Electronics,T-Shirt,2,490,97,26,PayPal,Grace,Returned,3,$909.00
+ORD1004,17-Apr-25,CUST504,Esther Ali,Female,54,Usa,Berlin,Home,Smart Watch,4,211,70,23,Card,Amina,Delivered,2,$797.00
+ORD1005,17-Apr-25,CUST505,Mary James,Male,41,Nigeria,New York,Electronics,Blender,4,619,58,45,PayPal,David,Returned,3,"$2,463.00"
+ORD1006,18-Feb-25,CUST506,Mary James,Male,38,Nigeria,Dallas,Beauty,Tablet,6,551,20,34,Card,David,Delivered,3,"$3,320.00"
+ORD1007,05-Mar-25,CUST507,Ahmed Bello,Female,27,Uk,Abuja,Home,Lipstick,5,694,27,46,PayPal,David,Delivered,5,"$3,489.00"
+ORD1008,07-Mar-25,CUST508,Ahmed Bello,Male,21,Nigeria,Liverpool,Beauty,Cookware Set,4,791,28,13,Card,David,Returned,2,"$3,149.00"
+ORD1009,02-Feb-25,CUST509,Grace John,Male,25,Uk,Lagos,Electronics,Makeup Kit,4,1270,59,38,Bank Transfer,Musa,Pending,3,"$5,059.00"
+ORD1010,06-Mar-25,CUST510,Sarah Ali,Male,58,Usa,London,Fashion,Headphones,4,56,92,21,PayPal,Musa,Returned,2,$153.00
+ORD1011,04-Mar-25,CUST511,John Musa,Male,41,Uk,Dallas,Electronics,Jacket,5,51,76,25,PayPal,David,Delivered,2,$204.00
+ORD1012,02-Mar-25,CUST512,Grace John,Male,34,Uk,London,Fashion,Laptop,5,307,16,47,Bank Transfer,Musa,Pending,2,"$1,566.00"
+ORD1013,27-Feb-25,CUST513,John Musa,Male,32,Usa,Liverpool,Fashion,Jacket,6,814,56,38,Card,Grace,Delivered,5,"$4,866.00"
+ORD1014,30-Jan-25,CUST514,John Musa,Male,39,Germany,New York,Beauty,Handbag,1,1499,80,8,Card,Musa,Delivered,3,"$1,427.00"
+ORD1015,01-Feb-25,CUST515,Ahmed Bello,Female,30,Uk,Berlin,Electronics,Face Cream,6,1219,73,35,Card,Amina,Returned,4,"$7,276.00"
+ORD1016,24-Mar-25,CUST516,John Musa,Male,43,Germany,Manchester,Fashion,Curtains,6,160,86,46,Bank Transfer,Grace,Delivered,2,$920.00
+ORD1017,01-Mar-25,CUST517,Sarah Ali,Male,46,Usa,Munich,Electronics,Jeans,2,914,23,22,Bank Transfer,Amina,Delivered,5,"$1,827.00"
+ORD1018,21-Apr-25,CUST518,Ahmed Bello,Male,28,Uk,New York,Beauty,Laptop,4,1044,61,18,PayPal,Amina,Pending,3,"$4,133.00"
+ORD1019,04-Mar-25,CUST519,Sarah Ali,Male,36,Nigeria,Liverpool,Electronics,Lipstick,6,1188,84,50,Card,Amina,Returned,5,"$7,094.00"
+ORD1020,21-Jan-25,CUST520,John Musa,Male,29,Germany,Abuja,Beauty,Headphones,5,1026,64,38,Card,Musa,Delivered,2,"$5,104.00"
+ORD1021,11-Jan-25,CUST521,Ahmed Bello,Female,34,Canada,Berlin,Beauty,Perfume,-3,1267,5,44,Card,Grace,Delivered,3,"-$3,762.00"
+ORD1022,21-Mar-25,CUST522,Grace John,Male,22,Nigeria,Ottawa,Fashion,Face Cream,3,198,1,34,Bank Transfer,David,Returned,3,$627.00
+ORD1023,17-Apr-25,CUST523,Grace John,Female,57,Usa,Abuja,Home,Jacket,3,633,20,33,Bank Transfer,Musa,Delivered,5,"$1,912.00"
+ORD1024,20-Jan-25,CUST524,Mary James,Female,56,Nigeria,Chicago,Beauty,Blender,1,269,95,40,Card,Grace,Delivered,3,$214.00
+ORD1025,01-Jan-25,CUST525,Mary James,Male,58,Nigeria,Abuja,Beauty,Lipstick,6,917,35,7,PayPal,David,Returned,4,"$5,474.00"
+ORD1026,05-Jan-25,CUST526,Unknown Customer,Male,45,Usa,Abuja,Electronics,Makeup Kit,1,1465,19,39,Card,Amina,Pending,3,"$1,485.00"
+ORD1027,10-Apr-25,CUST527,Grace John,Female,57,Nigeria,Dallas,Fashion,Headphones,2,1415,13,27,Bank Transfer,David,Delivered,2,"$2,844.00"
+ORD1028,13-Apr-25,CUST528,Esther Ali,Male,35,Usa,Abuja,Beauty,T-Shirt,6,730,100,31,Card,Amina,Pending,1,"$4,311.00"
+ORD1029,04-Jan-25,CUST529,Esther Ali,Male,43,Uk,Chicago,Home,Face Cream,3,675,29,19,PayPal,Grace,Delivered,3,"$2,015.00"
+ORD1030,23-Apr-25,CUST530,Mary James,Male,55,Canada,Liverpool,Beauty,Cookware Set,5,728,3,12,PayPal,Amina,Delivered,5,"$3,649.00"
+ORD1031,26-Apr-25,CUST531,Grace John,Male,34,Uk,Ottawa,Fashion,Lipstick,5,1097,14,29,Card,Fatima,Delivered,5,"$5,500.00"
+ORD1032,26-Mar-25,CUST532,John Musa,Female,50,Usa,London,Home,Jacket,6,726,79,25,PayPal,Fatima,Pending,4,"$4,302.00"
+ORD1033,06-Apr-25,CUST533,Sarah Ali,Female,43,Germany,New York,Fashion,Cookware Set,4,1411,48,48,Bank Transfer,Amina,Pending,3,"$5,644.00"
+ORD1034,26-Feb-25,CUST534,Esther Ali,Male,50,Germany,Hamburg,Home,T-Shirt,6,709,59,33,PayPal,David,Returned,1,"$4,228.00"
+ORD1035,29-Jan-25,CUST535,Sarah Ali,Male,19,Uk,Munich,Electronics,Cookware Set,1,531,86,24,Card,David,Pending,5,$469.00
+ORD1036,14-Feb-25,CUST536,Ahmed Bello,Female,33,Germany,Liverpool,Fashion,Smart Watch,5,448,91,49,Card,Amina,Delivered,4,"$2,198.00"
+ORD1037,28-Feb-25,CUST537,Sarah Ali,Female,60,Germany,Munich,Beauty,Jeans,1,1191,31,12,Bank Transfer,Musa,Returned,3,"$1,172.00"
+ORD1038,27-Feb-25,CUST538,Mary James,Male,58,Nigeria,Munich,Home,Makeup Kit,5,963,20,35,PayPal,Musa,Pending,2,"$4,830.00"
+ORD1039,10-Feb-25,CUST539,Grace John,Male,26,Uk,Kano,Fashion,Curtains,3,530,34,26,Card,David,Pending,2,"$1,582.00"
+ORD1040,08-Jan-25,CUST540,Sarah Ali,Female,42,Canada,Manchester,Beauty,Sneakers,3,1161,59,31,Bank Transfer,Amina,Returned,4,"$3,455.00"
+ORD1041,14-Feb-25,CUST541,Grace John,Male,49,Canada,Ottawa,Electronics,Perfume,4,908,68,39,Card,Grace,Pending,4,"$3,603.00"
+ORD1042,18-Apr-25,CUST542,Ahmed Bello,Male,57,Uk,Vancouver,Electronics,Smart Watch,6,878,92,15,Bank Transfer,Amina,Pending,5,"$5,191.00"
+ORD1043,18-Feb-25,CUST543,Mary James,Male,47,Nigeria,London,Beauty,Laptop,4,422,6,21,PayPal,Grace,Pending,3,"$1,703.00"
+ORD1044,29-Jan-25,CUST544,Esther Ali,Male,59,Usa,Lagos,Electronics,Lipstick,1,1154,6,27,Card,Amina,Delivered,2,"$1,175.00"
+ORD1045,14-Mar-25,CUST545,Sarah Ali,Female,34,Canada,New York,Electronics,Tablet,2,1019,85,12,PayPal,David,Returned,5,"$1,965.00"
+ORD1046,28-Mar-25,CUST546,Ahmed Bello,Female,30,Germany,Toronto,Electronics,Smartphone,5,100,39,41,Card,Musa,Returned,2,$502.00
+ORD1047,24-Feb-25,CUST547,Esther Ali,Female,22,Uk,Berlin,Beauty,Headphones,5,134,44,39,Bank Transfer,Grace,Delivered,4,$665.00
+ORD1048,25-Feb-25,CUST548,Sarah Ali,Female,57,Usa,Manchester,Home,Perfume,6,991,90,14,Bank Transfer,Fatima,Pending,4,"$5,870.00"
+ORD1049,14-Mar-25,CUST549,Grace John,Female,39,Canada,New York,Beauty,Table Lamp,3,973,31,34,Card,Fatima,Pending,2,"$2,922.00"
+ORD1050,23-Apr-25,CUST550,Mary James,Male,51,Usa,Ottawa,Beauty,Face Cream,3,622,76,49,Card,Amina,Delivered,4,"$1,839.00"
+ORD1051,27-Feb-25,CUST551,John Musa,Male,36,Canada,Dallas,Home,Makeup Kit,4,1372,91,36,Card,Fatima,Returned,2,"$5,433.00"
+ORD1052,06-Apr-25,CUST552,Grace John,Female,40,Nigeria,Ottawa,Home,Cookware Set,5,1137,44,32,Bank Transfer,Fatima,Pending,3,"$5,673.00"
+ORD1053,08-Apr-25,CUST553,Esther Ali,Male,30,Usa,Kano,Home,Chair,2,696,15,39,Card,Fatima,Pending,5,"$1,416.00"
+ORD1054,02-Jan-25,CUST554,Esther Ali,Male,35,Nigeria,Chicago,Fashion,Blender,2,789,22,24,Card,Amina,Returned,3,"$1,580.00"
+ORD1055,26-Feb-25,CUST555,Mary James,Male,21,Nigeria,Abuja,Beauty,T-Shirt,5,632,60,35,PayPal,Fatima,Delivered,1,"$3,135.00"
+ORD1056,20-Jan-25,CUST556,Grace John,Female,23,Uk,Kano,Fashion,Hair Dryer,6,1455,6,14,Card,Amina,Returned,7,"$8,738.00"
+ORD1057,09-Feb-25,CUST557,Grace John,Male,57,Usa,Manchester,Home,Handbag,4,658,75,32,Bank Transfer,Amina,Delivered,2,"$2,589.00"
+ORD1058,01-Jan-25,CUST558,Ahmed Bello,Female,56,Uk,New York,Home,Blender,2,1180,9,15,PayPal,Grace,Delivered,2,"$2,366.00"
+ORD1059,17-Mar-25,CUST559,Esther Ali,Male,45,Nigeria,London,Home,Table Lamp,6,528,33,45,Card,Musa,Delivered,2,"$3,180.00"
+ORD1060,28-Apr-25,CUST560,Mary James,Female,25,Germany,Abuja,Home,Chair,2,679,76,41,PayPal,Grace,Returned,4,"$1,323.00"
+ORD1061,24-Apr-25,CUST561,Ahmed Bello,Female,56,Germany,Munich,Electronics,Cookware Set,4,214,76,7,PayPal,Amina,Returned,2,$787.00
+ORD1062,26-Feb-25,CUST562,Mary James,Male,55,Canada,Berlin,Home,Headphones,2,1013,66,46,PayPal,Fatima,Delivered,4,"$2,006.00"
+ORD1063,22-Feb-25,CUST563,Esther Ali,Female,36,Canada,Ottawa,Beauty,Curtains,6,264,20,26,Bank Transfer,Fatima,Returned,1,"$1,590.00"
+ORD1064,21-Apr-25,CUST564,Grace John,Male,60,Canada,Ottawa,Fashion,Perfume,3,287,98,30,Bank Transfer,Fatima,Pending,1,$793.00
+ORD1065,27-Jan-25,CUST565,Mary James,Male,36,Uk,Vancouver,Home,Handbag,4,1330,56,8,PayPal,Fatima,Delivered,1,"$5,272.00"
+ORD1067,19-Feb-25,CUST567,Sarah Ali,Male,22,Canada,Manchester,Home,Curtains,2,985,70,14,PayPal,Fatima,Pending,5,"$1,914.00"
+ORD1068,04-Mar-25,CUST568,Sarah Ali,Female,52,Canada,Vancouver,Beauty,Blender,3,1252,74,47,PayPal,Grace,Pending,5,"$3,729.00"
+ORD1069,30-Jan-25,CUST569,Ahmed Bello,Male,38,Uk,Toronto,Beauty,Hair Dryer,6,539,73,29,Bank Transfer,Fatima,Returned,4,"$3,190.00"
+ORD1070,22-Apr-25,CUST570,John Musa,Female,24,Uk,London,Beauty,Face Cream,2,1078,75,26,Bank Transfer,Fatima,Delivered,2,"$2,107.00"
+ORD1071,20-Feb-25,CUST571,Esther Ali,Male,39,Nigeria,Lagos,Beauty,Face Cream,3,743,79,49,Bank Transfer,Musa,Pending,3,"$2,199.00"
+ORD1072,28-Apr-25,CUST572,Mary James,Male,23,Canada,Kano,Beauty,Makeup Kit,1,530,80,48,PayPal,Amina,Returned,1,$498.00
+ORD1073,15-Feb-25,CUST573,Mary James,Female,27,Usa,Toronto,Fashion,Face Cream,1,714,7,23,Card,Musa,Pending,5,$730.00
+ORD1074,31-Jan-25,CUST574,Ahmed Bello,Male,32,Canada,New York,Electronics,Jeans,5,833,79,48,PayPal,Grace,Pending,3,"$4,134.00"
+ORD1075,01-May-25,CUST575,Mary James,Female,58,Uk,Vancouver,Fashion,Smart Watch,5,373,9,33,PayPal,Grace,Pending,3,"$1,889.00"
+ORD1076,15-Mar-25,CUST576,Mary James,Female,19,Uk,London,Electronics,smartphone,2,831,73,27,Bank Transfer,Fatima,Pending,1,"$1,616.00"
+ORD1077,23-Mar-25,CUST577,Sarah Ali,Female,60,Uk,Manchester,Electronics,Tablet,2,1293,45,19,Bank Transfer,David,Returned,1,"$2,560.00"
+ORD1078,12-Jan-25,CUST578,Mary James,Female,44,Germany,London,Home,Headphones,5,797,93,13,Card,David,Delivered,5,"$3,905.00"
+ORD1079,06-Apr-25,CUST579,Mary James,Male,47,Uk,Munich,Home,Cookware Set,2,576,61,23,Card,David,Delivered,4,"$1,114.00"
+ORD1080,17-Feb-25,CUST580,Esther Ali,Female,55,Germany,London,Beauty,Blender,3,1148,15,34,PayPal,Grace,Delivered,2,"$3,463.00"
+ORD1081,09-Jan-25,CUST581,Esther Ali,Female,37,Canada,Hamburg,Electronics,Perfume,3,1299,28,46,Bank Transfer,Fatima,Delivered,2,"$3,915.00"
+ORD1082,18-Jan-25,CUST582,Ahmed Bello,Female,41,Nigeria,Ottawa,Fashion,Laptop,1,249,30,39,Bank Transfer,Musa,Pending,5,$258.00
+ORD1083,30-Mar-25,CUST583,Mary James,Male,46,Canada,Lagos,Home,T-Shirt,5,885,35,7,PayPal,David,Pending,1,"$4,397.00"
+ORD1084,19-Apr-25,CUST584,Ahmed Bello,Male,60,Usa,Toronto,Home,Cookware Set,4,615,24,12,Card,Musa,Delivered,1,"$2,448.00"
+ORD1085,27-Jan-25,CUST585,Grace John,Male,32,Usa,Dallas,Home,Chair,2,190,97,40,PayPal,David,Returned,1,$323.00
+ORD1086,,CUST586,John Musa,Male,18,Canada,Dallas,Electronics,Chair,3,407,14,47,PayPal,David,Returned,3,"$1,254.00"
+ORD1087,06-Apr-25,CUST587,John Musa,Female,46,Usa,Toronto,Beauty,Smartphone,2,912,67,12,PayPal,Musa,Returned,1,"$1,769.00"
+ORD1088,28-Feb-25,CUST588,Esther Ali,Male,21,Nigeria,Dallas,Beauty,Makeup Kit,1,1399,66,24,PayPal,Fatima,Pending,1,"$1,357.00"
+ORD1089,17-Jan-25,CUST589,Mary James,Female,42,Nigeria,Abuja,Beauty,Hair Dryer,3,1295,18,9,Bank Transfer,Musa,Pending,4,"$3,876.00"
+ORD1090,25-Feb-25,CUST590,Ahmed Bello,Male,44,Uk,Kano,Electronics,Perfume,6,1179,92,18,PayPal,Fatima,Pending,4,"$7,000.00"
+ORD1091,29-Mar-25,CUST591,Unknown Customer,Male,23,Germany,Manchester,Home,Headphones,6,572,47,14,Card,Amina,Pending,1,"$3,399.00"
+ORD1092,27-Mar-25,CUST592,John Musa,Female,40,Canada,Berlin,Home,Chair,5,1200,71,26,Bank Transfer,Fatima,Returned,1,"$5,955.00"
+ORD1093,20-Jan-25,CUST593,Esther Ali,Female,32,Germany,Ottawa,Electronics,Cookware Set,1,1233,64,18,Card,Grace,Returned,3,"$1,187.00"
+ORD1094,20-Mar-25,CUST594,Esther Ali,Male,56,Canada,Berlin,Home,Headphones,4,1198,98,44,Bank Transfer,Grace,Delivered,2,"$4,738.00"
+ORD1095,26-Mar-25,CUST595,Ahmed Bello,Male,27,Uk,Ottawa,Fashion,Table Lamp,1,421,18,41,Bank Transfer,Amina,Delivered,5,$444.00
+ORD1096,03-Apr-25,CUST596,Mary James,Male,21,Uk,Manchester,Electronics,T-Shirt,3,372,,24,Card,David,Returned,1,"$1,140.00"
+ORD1097,23-Feb-25,CUST597,Mary James,Male,50,Uk,Liverpool,Home,Headphones,4,1044,77,33,Card,Grace,Pending,1,"$4,132.00"
+ORD1098,20-Feb-25,CUST598,Grace John,Male,18,Canada,Liverpool,Home,Cookware Set,6,681,5,19,Card,Grace,Delivered,2,"$4,100.00"
+ORD1099,23-Jan-25,CUST599,Sarah Ali,Female,52,Uk,Toronto,Home,Table Lamp,1,1068,95,32,Bank Transfer,David,Returned,5,"$1,005.00"
+ORD1100,28-Apr-25,CUST600,John Musa,Female,54,Uk,Liverpool,Home,Blender,1,943,2,34,PayPal,Musa,Pending,4,$975.00
+ORD1101,17-Apr-25,CUST601,Esther Ali,Female,23,Nigeria,London,Beauty,Blender,3,401,79,34,PayPal,Amina,Delivered,4,"$1,158.00"
+ORD1102,10-Apr-25,CUST602,Sarah Ali,Male,50,Canada,Lagos,Fashion,Makeup Kit,3,745,28,26,Bank Transfer,Amina,Returned,5,"$2,233.00"
+ORD1103,19-Jan-25,CUST603,Mary James,Male,29,Uk,Vancouver,Fashion,Jacket,6,352,30,11,Bank Transfer,David,Returned,1,"$2,093.00"
+ORD1104,24-Mar-25,CUST604,Esther Ali,Female,58,Canada,Liverpool,Beauty,T-Shirt,5,969,87,41,PayPal,David,Pending,1,"$4,799.00"
+ORD1105,10-Jan-25,CUST605,Mary James,Female,46,Germany,Ottawa,Electronics,Hair Dryer,5,165,45,37,Card,Amina,Pending,3,$817.00
+ORD1106,12-Mar-25,CUST606,Esther Ali,Male,46,Usa,Hamburg,Beauty,Laptop,5,837,59,42,Bank Transfer,David,Pending,5,"$4,168.00"
+ORD1107,11-Jan-25,CUST607,Grace John,Male,20,Canada,New York,Fashion,Makeup Kit,4,261,43,50,Card,Fatima,Pending,5,"$1,051.00"
+ORD1108,28-Mar-25,CUST608,Grace John,Male,58,Uk,Ottawa,Electronics,Jacket,4,887,99,26,Bank Transfer,Grace,Delivered,3,"$3,475.00"
+ORD1109,12-Feb-25,CUST609,John Musa,Male,40,Germany,Manchester,Electronics,Tablet,3,1394,77,14,PayPal,Fatima,Delivered,5,"$4,119.00"
+ORD1110,31-Mar-25,CUST610,Esther Ali,Male,59,Canada,Munich,Electronics,Headphones,6,722,16,47,Bank Transfer,Fatima,Returned,3,"$4,363.00"
+ORD1111,25-Jan-25,CUST611,Sarah Ali,Male,27,Germany,Toronto,Electronics,Headphones,2,749,98,36,Card,Grace,Delivered,5,"$1,436.00"
+ORD1112,24-Jan-25,CUST612,Esther Ali,Male,46,Canada,Berlin,Beauty,Headphones,5,821,19,15,Card,Fatima,Pending,2,"$4,101.00"
+ORD1113,09-Feb-25,CUST613,Ahmed Bello,Male,41,Germany,Vancouver,Home,Makeup Kit,4,529,68,20,Bank Transfer,Musa,Pending,4,"$2,068.00"
+ORD1114,18-Jan-25,CUST614,Mary James,Male,59,Nigeria,Hamburg,Electronics,Curtains,4,381,25,43,PayPal,Grace,Returned,1,"$1,542.00"
+ORD1115,17-Apr-25,CUST615,Ahmed Bello,Male,32,Germany,Abuja,Electronics,Headphones,3,970,65,14,PayPal,Grace,Delivered,4,"$2,859.00"
+ORD1116,29-Jan-25,CUST616,John Musa,Female,24,Uk,Munich,Electronics,Smart Watch,2,840,10,28,Bank Transfer,Grace,Delivered,2,"$1,698.00"
+ORD1117,20-Mar-25,CUST617,John Musa,Male,19,Canada,Liverpool,Beauty,Headphones,2,1494,60,33,PayPal,David,Delivered,5,"$2,961.00"
+ORD1118,23-Feb-25,CUST618,Esther Ali,Female,22,Germany,Toronto,Electronics,Perfume,3,299,6,20,Card,Fatima,Returned,5,$911.00
+ORD1119,01-Jan-25,CUST619,Grace John,Female,33,Germany,Berlin,Home,Tablet,6,344,37,32,Bank Transfer,Fatima,Delivered,1,"$2,059.00"
+ORD1120,19-Feb-25,CUST620,Ahmed Bello,Male,58,Canada,Hamburg,Home,Blender,5,1089,70,6,PayPal,Grace,Pending,1,"$5,381.00"
+ORD1121,09-Apr-25,CUST621,Grace John,Female,26,Uk,Toronto,Fashion,Blender,6,1395,80,11,Card,Grace,Returned,3,"$8,301.00"
+ORD1122,10-Apr-25,CUST622,Ahmed Bello,Male,36,Germany,Liverpool,Home,T-Shirt,2,326,8,50,Card,Amina,Delivered,1,$694.00
+ORD1123,07-Apr-25,CUST623,Esther Ali,Male,36,Canada,Munich,Home,Table Lamp,5,1019,32,7,PayPal,Amina,Returned,3,"$5,070.00"
+ORD1124,24-Jan-25,CUST624,Ahmed Bello,Female,41,Germany,Ottawa,Electronics,Blender,4,950,49,26,Bank Transfer,Grace,Delivered,4,"$3,777.00"
+ORD1125,11-Jan-25,CUST625,Mary James,Female,37,Canada,Berlin,Fashion,Smart Watch,5,651,41,11,PayPal,Musa,Returned,4,"$3,225.00"
+ORD1126,05-Feb-25,CUST626,Esther Ali,Male,22,Usa,Ottawa,Fashion,T-Shirt,1,772,78,32,Bank Transfer,Fatima,Pending,5,$726.00
+ORD1127,09-Jan-25,CUST627,Sarah Ali,Female,41,Canada,Dallas,Fashion,Sneakers,6,947,4,13,PayPal,Musa,Delivered,5,"$5,691.00"
+ORD1128,09-Mar-25,CUST628,Mary James,Female,38,Uk,Ottawa,Electronics,T-Shirt,4,207,73,13,Bank Transfer,Grace,Delivered,1,$768.00
+ORD1129,10-Apr-25,CUST629,Mary James,Female,31,Usa,Liverpool,Fashion,Smartphone,4,1200,15,21,Bank Transfer,Grace,Returned,4,"$4,806.00"
+ORD1130,12-Jan-25,CUST630,Esther Ali,Female,60,Usa,New York,Home,Sneakers,4,403,91,33,PayPal,Amina,Returned,5,"$1,554.00"
+ORD1131,12-Apr-25,CUST631,Mary James,Male,25,Germany,Dallas,Electronics,Table Lamp,6,1484,81,16,Card,David,Delivered,4,"$8,839.00"
+ORD1132,20-Mar-25,CUST632,John Musa,Male,37,Nigeria,Hamburg,Beauty,Headphones,3,1007,70,13,PayPal,Fatima,Returned,4,"$2,964.00"
+ORD1133,01-Mar-25,CUST633,Esther Ali,Female,26,Nigeria,Abuja,Beauty,Makeup Kit,3,1365,9,33,Bank Transfer,Musa,Delivered,2,"$4,119.00"
+ORD1134,21-Jan-25,CUST634,Mary James,Male,40,Canada,Abuja,Fashion,Makeup Kit,5,363,38,15,Bank Transfer,Grace,Delivered,3,"$1,792.00"
+ORD1135,12-Jan-25,CUST635,Grace John,Male,55,Nigeria,Toronto,Home,Handbag,6,670,78,39,Bank Transfer,David,Delivered,5,"$3,981.00"
+ORD1136,03-Feb-25,CUST636,Esther Ali,Male,54,Canada,Abuja,Beauty,Cookware Set,1,143,82,41,PayPal,Musa,Returned,1,$102.00
+ORD1137,21-Feb-25,CUST637,Mary James,Female,22,Uk,Vancouver,Beauty,Makeup Kit,3,1039,31,48,Bank Transfer,Amina,Delivered,4,"$3,134.00"
+ORD1138,21-Apr-25,CUST638,Esther Ali,Female,40,Usa,London,Electronics,Hair Dryer,3,1292,18,25,PayPal,David,Pending,5,"$3,883.00"
+ORD1139,19-Jan-25,CUST639,John Musa,Male,36,Germany,Chicago,Fashion,Headphones,1,597,57,20,PayPal,Musa,Pending,2,$560.00
+ORD1140,05-Mar-25,CUST640,Grace John,Female,49,Uk,Hamburg,Beauty,Jacket,3,438,97,15,PayPal,Fatima,Delivered,1,"$1,232.00"
+ORD1141,07-Jan-25,CUST641,Mary James,Female,56,Uk,London,Electronics,Makeup Kit,2,1244,45,8,Bank Transfer,Fatima,Pending,5,"$2,451.00"
+ORD1142,16-Feb-25,CUST642,John Musa,Female,21,Uk,London,Home,Laptop,3,799,97,30,Bank Transfer,Musa,Delivered,3,"$2,330.00"
+ORD1143,29-Mar-25,CUST643,Grace John,Male,26,Usa,Liverpool,Home,Blender,4,1176,35,44,Card,Fatima,Pending,3,"$4,713.00"
+ORD1144,06-Jan-25,CUST644,John Musa,Male,39,Germany,Dallas,Fashion,Chair,5,872,64,7,PayPal,Musa,Pending,2,"$4,303.00"
+ORD1145,17-Mar-25,CUST645,Mary James,Female,54,Uk,Munich,Home,Jacket,2,854,78,24,PayPal,Fatima,Delivered,3,"$1,654.00"
+ORD1146,18-Mar-25,CUST646,Ahmed Bello,Female,59,Germany,Liverpool,Beauty,Blender,3,1459,80,6,Bank Transfer,Musa,Delivered,1,"$4,303.00"
+ORD1147,19-Jan-25,CUST647,Esther Ali,Male,20,Uk,Hamburg,Beauty,Face Cream,6,1319,99,29,Bank Transfer,Amina,Delivered,1,"$7,844.00"
+ORD1148,06-Mar-25,CUST648,Grace John,Female,21,Germany,London,Home,Lipstick,4,1464,26,31,Bank Transfer,David,Returned,2,"$5,861.00"
+ORD1149,13-Feb-25,CUST649,Grace John,Female,59,Canada,Munich,Fashion,Curtains,3,404,58,39,Bank Transfer,Grace,Returned,4,"$1,193.00"
+ORD1150,01-Apr-25,CUST650,Sarah Ali,Female,38,Germany,Vancouver,Home,Jeans,3,510,38,23,PayPal,Grace,Returned,3,"$1,515.00"
+ORD1151,09-Apr-25,CUST651,Sarah Ali,Female,20,Usa,Hamburg,Home,Blender,5,827,50,27,PayPal,Amina,Pending,4,"$4,112.00"
+ORD1152,04-Feb-25,CUST652,Sarah Ali,Male,57,Usa,New York,Electronics,Curtains,5,605,71,49,Bank Transfer,Musa,Delivered,2,"$3,003.00"
+ORD1153,12-Feb-25,CUST653,Esther Ali,Female,24,Uk,Dallas,Fashion,Tablet,2,157,12,31,Bank Transfer,David,Delivered,5,$333.00
+ORD1154,11-Feb-25,CUST654,Mary James,Male,23,Uk,Manchester,Electronics,T-Shirt,6,458,96,23,Bank Transfer,Musa,Delivered,5,"$2,675.00"
+ORD1155,24-Jan-25,CUST655,Esther Ali,Female,20,Canada,London,Electronics,Smartphone,1,863,100,36,Card,Grace,Returned,5,$799.00
+ORD1156,24-Apr-25,CUST656,Sarah Ali,Female,35,Usa,Ottawa,Beauty,Headphones,6,1162,67,36,Card,Amina,Pending,2,"$6,941.00"
+ORD1157,28-Mar-25,CUST657,Sarah Ali,Male,57,Uk,New York,Home,Lipstick,6,740,37,41,Bank Transfer,Fatima,Pending,5,"$4,444.00"
+ORD1158,11-Feb-25,CUST658,Sarah Ali,Male,34,Germany,Liverpool,Home,Blender,1,428,17,35,PayPal,David,Pending,3,$446.00
+ORD1159,16-Feb-25,CUST659,Esther Ali,Male,21,Germany,Hamburg,Fashion,Table Lamp,5,73,33,46,Bank Transfer,Amina,Pending,3,$378.00
+ORD1160,28-Apr-25,CUST660,Mary James,Female,57,Germany,Hamburg,Fashion,T-Shirt,3,1463,15,45,Card,David,Delivered,4,"$4,419.00"
+ORD1161,07-Apr-25,CUST661,Grace John,Male,33,Canada,Munich,Beauty,T-Shirt,4,1487,70,35,Bank Transfer,Musa,Delivered,5,"$5,913.00"
+ORD1162,26-Apr-25,CUST662,Grace John,Male,54,Usa,Toronto,Beauty,Makeup Kit,5,279,7,40,Bank Transfer,David,Delivered,3,"$1,428.00"
+ORD1163,27-Feb-25,CUST663,John Musa,Female,26,Uk,Dallas,Electronics,Perfume,5,1051,11,37,Bank Transfer,Fatima,Pending,5,"$5,281.00"
+ORD1164,15-Apr-25,CUST664,John Musa,Male,55,Nigeria,Liverpool,Electronics,Tablet,3,94,50,21,Card,Amina,Pending,3,$253.00
+ORD1165,24-Jan-25,CUST665,Sarah Ali,Female,41,Usa,Abuja,Electronics,Tablet,4,114,36,31,PayPal,Fatima,Pending,4,$451.00
+ORD1166,20-Feb-25,CUST666,Grace John,Male,32,Uk,Dallas,Beauty,Tablet,3,292,22,39,Card,Amina,Pending,4,$893.00
+ORD1167,05-Feb-25,CUST667,Sarah Ali,Male,20,Nigeria,London,Fashion,Makeup Kit,2,993,44,14,Bank Transfer,Fatima,Returned,1,"$1,956.00"
+ORD1168,28-Mar-25,CUST668,Esther Ali,Male,33,Usa,Abuja,Fashion,Jeans,5,118,57,43,Bank Transfer,Amina,Pending,4,$576.00
+ORD1169,15-Apr-25,CUST669,Esther Ali,Female,54,Usa,New York,Fashion,Handbag,2,1081,37,19,Bank Transfer,Grace,Delivered,3,"$2,144.00"
+ORD1170,17-Mar-25,CUST670,Esther Ali,Male,58,Uk,Chicago,Electronics,Handbag,3,613,7,40,Bank Transfer,Fatima,Returned,4,"$1,872.00"
+ORD1171,20-Jan-25,CUST671,Mary James,Female,29,Uk,Liverpool,Home,Headphones,3,1476,53,31,Bank Transfer,Fatima,Delivered,2,"$4,406.00"
+ORD1172,09-Mar-25,CUST672,Sarah Ali,Female,33,Nigeria,London,Beauty,Chair,5,895,53,40,PayPal,David,Pending,1,"$4,462.00"
+ORD1173,18-Feb-25,CUST673,Esther Ali,Male,22,Usa,Kano,Fashion,Lipstick,6,440,6,22,Card,Musa,Returned,5,"$2,656.00"
+ORD1174,05-Apr-25,CUST674,John Musa,Female,33,Germany,Chicago,Beauty,T-Shirt,3,81,27,17,Bank Transfer,Musa,Returned,2,$233.00
+ORD1175,25-Mar-25,CUST675,Mary James,Female,34,Canada,Munich,Electronics,Face Cream,3,829,59,39,PayPal,Musa,Pending,4,"$2,467.00"
+ORD1176,14-Mar-25,CUST676,Sarah Ali,Male,19,Usa,Toronto,Beauty,Smart Watch,3,690,52,7,PayPal,Musa,Returned,5,"$2,025.00"
+ORD1177,17-Apr-25,CUST677,Sarah Ali,Female,53,Usa,New York,Beauty,Lipstick,3,521,48,41,Bank Transfer,Grace,Pending,4,"$1,556.00"
+ORD1178,04-Mar-25,CUST678,Sarah Ali,Male,51,Usa,Dallas,Electronics,Hair Dryer,3,396,17,39,Card,Amina,Returned,1,"$1,210.00"
+ORD1179,02-Jan-25,CUST679,Sarah Ali,Female,41,Nigeria,Dallas,Beauty,Smart Watch,2,189,90,14,Card,Musa,Returned,5,$302.00
+ORD1180,03-Jan-25,CUST680,Grace John,Female,52,Nigeria,Abuja,Fashion,Hair Dryer,5,1179,52,5,PayPal,Amina,Returned,4,"$5,848.00"
+ORD1181,09-Mar-25,CUST681,Mary James,Female,35,Usa,Kano,Beauty,Sneakers,2,543,24,44,PayPal,Amina,Pending,4,"$1,106.00"
+ORD1182,25-Mar-25,CUST682,Esther Ali,Male,23,Nigeria,Dallas,Beauty,Makeup Kit,2,664,87,10,PayPal,Fatima,Pending,5,"$1,251.00"
+ORD1183,24-Mar-25,CUST683,Mary James,Male,51,Nigeria,Kano,Beauty,Perfume,2,219,63,32,Card,David,Delivered,5,$407.00
+ORD1184,26-Mar-25,CUST684,John Musa,Male,38,Canada,Abuja,Beauty,Lipstick,6,624,69,41,Card,David,Returned,2,"$3,716.00"
+ORD1185,28-Mar-25,CUST685,Grace John,Female,42,Nigeria,Toronto,Home,Perfume,5,542,72,29,Bank Transfer,David,Returned,1,"$2,667.00"
+ORD1186,09-Apr-25,CUST686,Grace John,Female,38,Germany,Lagos,Fashion,Blender,2,205,43,43,Card,Grace,Pending,4,$410.00
+ORD1187,26-Mar-25,CUST687,Ahmed Bello,Male,57,Usa,Munich,Electronics,Jacket,4,430,87,42,PayPal,David,Returned,1,"$1,675.00"
+ORD1188,10-Feb-25,CUST688,Mary James,Male,23,Usa,Chicago,Home,Headphones,6,1348,19,29,Card,Grace,Pending,3,"$8,098.00"
+ORD1189,13-Mar-25,CUST689,Grace John,Female,24,Germany,New York,Electronics,Blender,2,932,57,40,Card,Amina,Pending,5,"$1,847.00"
+ORD1190,19-Feb-25,CUST690,John Musa,Male,54,Canada,Munich,Fashion,Tablet,4,75,37,31,Bank Transfer,David,Returned,4,$294.00
+ORD1191,22-Jan-25,CUST691,Ahmed Bello,Female,44,Uk,Ottawa,Home,Jeans,3,1059,18,9,PayPal,Fatima,Delivered,3,"$3,168.00"
+ORD1192,18-Jan-25,CUST692,Mary James,Male,43,Uk,Liverpool,Beauty,Chair,5,450,58,11,PayPal,Musa,Pending,3,"$2,203.00"
+ORD1193,19-Mar-25,CUST693,Esther Ali,Male,48,Germany,Liverpool,Home,Lipstick,5,328,38,25,PayPal,David,Pending,3,"$1,627.00"
+ORD1194,16-Feb-25,CUST694,John Musa,Male,55,Usa,Berlin,Electronics,Curtains,3,820,35,30,Bank Transfer,David,Returned,5,"$2,455.00"
+ORD1195,28-Mar-25,CUST695,Ahmed Bello,Male,58,Nigeria,Chicago,Beauty,Smart Watch,3,1468,8,31,PayPal,David,Pending,2,"$4,427.00"
+ORD1196,10-Mar-25,CUST696,Grace John,Female,52,Usa,Lagos,Electronics,Hair Dryer,5,1031,74,30,Card,Grace,Returned,5,"$5,111.00"
+ORD1197,20-Mar-25,CUST697,John Musa,Female,39,Germany,Dallas,Home,Laptop,6,777,21,46,PayPal,Amina,Delivered,1,"$4,687.00"
+ORD1198,15-Mar-25,CUST698,Sarah Ali,Female,41,Nigeria,Hamburg,Fashion,Chair,5,1192,74,49,PayPal,Fatima,Returned,5,"$5,935.00"
+ORD1199,15-Jan-25,CUST699,Esther Ali,Male,40,Uk,Lagos,Beauty,Jacket,1,655,53,10,PayPal,Grace,Pending,2,$612.00
+ORD1200,09-Jan-25,CUST700,Mary James,Male,25,UK,London,Beauty,Lipstick,4,1476,57,25,Card,Grace,Returned,1,"$5,872.00"
